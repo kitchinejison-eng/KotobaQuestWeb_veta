@@ -1,0 +1,26 @@
+{
+  "id": "./index.html",
+  "name": "ことクエ（モバイル版）",
+  "short_name": "ことクエ",
+  "description": "縦向き・横向きの1画面で使える、ことば・読み・発話・会話の練習アプリ",
+  "lang": "ja-JP",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8dc",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
